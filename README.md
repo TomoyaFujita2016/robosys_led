@@ -7,5 +7,7 @@
 - `echo 0 > /dev/myled0` -> 二つのLEDが消灯
 
 ## デモ
-- [youtube]()
+- [youtube](https://www.youtube.com/watch?v=kTqVnQ9Fw7o)
 
+## ライセンス
+- MIT
